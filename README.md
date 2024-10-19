@@ -7,6 +7,7 @@ This project aims to create a password generator application using Python, allow
 
 # Technologies Used 💡
 ● **Python**: The primary programming language for the application.
+
 ● **Django**: A high-level Python web framework that encourages development.
 
 ## Installation 🔗
