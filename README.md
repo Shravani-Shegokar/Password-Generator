@@ -21,6 +21,11 @@ step2:
 ```bash
 $ python manage.py runserver
 ```
+Click on this to open browser:
+
+```bash
+ Running on [http://127.0.0.1:8000]
+```
 ## Contact 
 ●[Shravani Shegokar](https://www.linkedin.com/in/shravani-shegokar-b09054291/)
 
